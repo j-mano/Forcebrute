@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{81EBBD81-6137-4F1F-B96A-6548CDD4356C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ForceBrute/Program.cs">
+    <Files>
+      <File FileName="ForceBrute/Program.cs" Line="13" Column="10" />
+      <File FileName="ForceBrute/MainWindow.cs" Line="29" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ForceBrute" expanded="True">
+            <Node name="ForceBrute" expanded="True" selected="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ForceBrute PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

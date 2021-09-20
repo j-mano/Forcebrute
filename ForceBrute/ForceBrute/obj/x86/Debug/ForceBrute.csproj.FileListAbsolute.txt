@@ -1,0 +1,8 @@
+/home/joachim/Projects/ForceBrute/ForceBrute/bin/Debug/ForceBrute.exe.config
+/home/joachim/Projects/ForceBrute/ForceBrute/bin/Debug/ForceBrute.exe
+/home/joachim/Projects/ForceBrute/ForceBrute/bin/Debug/ForceBrute.pdb
+/home/joachim/Projects/ForceBrute/ForceBrute/obj/x86/Debug/ForceBrute.csprojAssemblyReference.cache
+/home/joachim/Projects/ForceBrute/ForceBrute/obj/x86/Debug/ForceBrute.exe.config
+/home/joachim/Projects/ForceBrute/ForceBrute/obj/x86/Debug/ForceBrute.csproj.CoreCompileInputs.cache
+/home/joachim/Projects/ForceBrute/ForceBrute/obj/x86/Debug/ForceBrute.exe
+/home/joachim/Projects/ForceBrute/ForceBrute/obj/x86/Debug/ForceBrute.pdb

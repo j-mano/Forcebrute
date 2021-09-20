@@ -1,0 +1,3 @@
+/home/joachim/Projects/ForceBrute/Brute_Force_Sevices/obj/x86/Debug/Brute_Force_Sevices.csprojAssemblyReference.cache
+/home/joachim/Projects/ForceBrute/Brute_Force_Sevices/obj/x86/Debug/Brute_Force_Sevices.csproj.CoreCompileInputs.cache
+/home/joachim/Projects/ForceBrute/Brute_Force_Sevices/obj/x86/Debug/Brute_Force_Sevices.exe.config
